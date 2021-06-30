@@ -1,3 +1,7 @@
+/*
+    Compile with: gcc -o stocks main.c stock.c llist.c portfolio.c
+*/
+
 #include "portfolio.h"
 
 #include <stdio.h>
